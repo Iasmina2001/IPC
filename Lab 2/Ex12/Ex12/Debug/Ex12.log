@@ -1,0 +1,4 @@
+﻿  Ex12.cpp
+c:\users\public\facultate\doctorat\ipc\lab 2\ex12\ex12\ex12.cpp(42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\public\facultate\doctorat\ipc\lab 2\ex12\ex12\ex12.cpp(43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Ex12.vcxproj -> C:\Users\Public\Facultate\Doctorat\IPC\Lab 2\Ex12\Debug\Ex12.exe

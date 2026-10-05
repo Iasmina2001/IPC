@@ -1,0 +1,11 @@
+În Visual Studio 2017, „Win32 Console Application” nu mai apare neapărat cu acest nume. Pentru un proiect C++ de consolă, folosește:
+
+File → New → Project → Visual C++ → Windows Desktop Wizard
+
+Apoi:
+
+Introdu un nume și apasă OK.
+În fereastra Windows Desktop Project, la Application type, selectează Console Application (.exe).
+Bifează Empty project, dacă vrei să adaugi manual fișierele sursă.
+Apasă OK.
+În Solution Explorer, clic dreapta pe proiect → Add → New Item → C++ File (.cpp).
